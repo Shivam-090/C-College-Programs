@@ -5,9 +5,9 @@ int main()
 {
     int a, b;
     float c;
-    printf("Enter value of a: \n");
+    printf("Enter value of a: ");
     scanf("%d", &a);
-    printf("Enter value of b: \n");
+    printf("Enter value of b: ");
     scanf("%d", &b);
     if (a == 0 || b == 0)
     {
