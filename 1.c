@@ -4,11 +4,11 @@
 int main()
 {
     int num, count = 1;
-    printf("Enter a positive number\n");
+    printf("Enter a positive number : ");
     scanf("%d", &num);
     while (count <= num)
     {
-        printf("%d\n", count);
+        printf("\n%d", count);
         count++;
     }
     return 0;
