@@ -12,7 +12,6 @@
 
 > Program to display the message 5 times as displayed below using for loop and continue statement.
 
-****
 > ![](image/README/1638159065719.png)
 
 </br>
@@ -56,7 +55,6 @@
 
 # **Output for practice1.c is:**
 
-****
 > ![](image/README/1638160925087.png)
 
 </br>
