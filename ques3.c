@@ -1,0 +1,1 @@
+// To find the sum of individual digits of a positive integer and test given number is palindrome.
